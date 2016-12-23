@@ -1,7 +1,7 @@
-Codebook {.title .toc-ignore}
+Codebook 
 ========
 
-#### *December 22, 2016* {.date}
+#### *December 22, 2016* 
 
 ### Download the file
 
