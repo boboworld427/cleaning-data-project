@@ -82,4 +82,4 @@ newtable2<-arrange(newtable2,ID)
 
 View(newtable2)
 
-#write.table(newtable2, "c:/tidydata.txt", sep="\t")
+#write.table(newtable2, "c:/tidydata.txt", sep="\t",row.names=F)
