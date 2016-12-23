@@ -1,4 +1,4 @@
-Readme {.title .toc-ignore}
+Readme 
 ======
 
 #### *December 22, 2016* {.date}
