@@ -49,12 +49,12 @@ words to full words so that the variable names become more intuitive.
 Also we removed chracters like () and – because they were making the
 name very messy.We used the r function grep for this.
 
--t \\(\\rightarrow\\) time\
- -f \\(\\rightarrow\\) frequency\
- -Acc \\(\\rightarrow\\) Accelerometer\
- -Gyro \\(\\rightarrow\\) Gyroscope\
- -Mag \\(\\rightarrow\\) Magnitude\
- -BodyBody \\(\\rightarrow\\) Body
+-t -\> time\
+ -f -\> frequency\
+ -Acc -\> Accelerometer\
+ -Gyro -\> Gyroscope\
+ -Mag -\> Magnitude\
+ -BodyBody -\>Body
 
 \*Also, We add eliminated all the features that are not from mean or
 standard deviation measurements.
@@ -65,7 +65,7 @@ from the test or training group.
 \*We melted the mean and standard deviation and made a new column out of
 it, named “measurement”, which reduced the number of columns.
 
-\*We reduced the number of columns 563 \\(\\rightarrow\\) 37.
+\*We reduced the number of columns 563 -\> 37.
 
 \*We rearranged the order of columns so the identity variables come
 first.
