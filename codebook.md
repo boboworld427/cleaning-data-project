@@ -629,7 +629,7 @@ For each activity for each subject, we have the measure of average of
 mean and standard deviation.
 
 ``` {.r}
-write.table(newtable2, "c:/tidydata.txt", sep="\t")
+write.table(newtable2, "c:/tidydata.txt", sep="\t",row.name=F)
 ```
 
 ### Appendix
