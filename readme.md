@@ -49,12 +49,17 @@ words to full words so that the variable names become more intuitive.
 Also we removed chracters like () and – because they were making the
 name very messy.We used the r function grep for this.
 
--t -\> time\
- -f -\> frequency\
- -Acc -\> Accelerometer\
- -Gyro -\> Gyroscope\
- -Mag -\> Magnitude\
- -BodyBody -\>Body
+-t -\> time  
+
+-f -\> frequency
+
+-Acc -\> Accelerometer
+
+-Gyro -\> Gyroscope
+
+-Mag -\> Magnitude
+
+-BodyBody -\>Body
 
 \*Also, We add eliminated all the features that are not from mean or
 standard deviation measurements.
