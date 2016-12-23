@@ -5,6 +5,7 @@ Readme
 
 This is for the project of Getting and Cleaning Data. The link to the
 Github Repo is:
+https://github.com/boboworld427/cleaning-data-project
 
 There are 3 files :
 
